@@ -1,4 +1,4 @@
 # UsefulFuncs
 
-Usefule VBA functions.
+Useful VBA functions.
 
